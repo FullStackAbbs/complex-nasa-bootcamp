@@ -1,0 +1,28 @@
+*{
+  box-sizing:border-box;
+}
+html{
+  background-image: url("../img/spaceBKGND.png");
+  background-repeat: repeat;
+  background-size: 1000px 1000px;
+}
+
+body{
+  color: white;
+  font-weight:900;
+  -webkit-text-stroke: .3px navy;
+  text-align: center;
+
+}
+
+ul{
+  list-style-type: none;
+  list-style: none;
+  text-align: center;
+  line-height:50px;
+}
+
+button{
+  background-color: white;
+  font-size: 15px
+}
